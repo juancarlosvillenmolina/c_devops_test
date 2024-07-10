@@ -18,7 +18,7 @@ cmake ..
 make
 ```
 
-# Pass the test
+# Pass the test HE AÑADIDO ESTO
 
 After compiling execute the next command from the build folder
 
